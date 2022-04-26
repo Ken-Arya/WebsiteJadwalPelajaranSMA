@@ -1,0 +1,1 @@
+php artisan migrate:refresh --path=/database/migrations/2022_03_06_081637_create_jadwal_pelajarans_table.php
